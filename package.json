@@ -1,0 +1,29 @@
+{
+  "name": "juniorcup2020",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fdmxfarhan/juniorcup2020.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fdmxfarhan/juniorcup2020/issues"
+  },
+  "homepage": "https://github.com/fdmxfarhan/juniorcup2020#readme",
+  "dependencies": {
+    "cookie-parser": "^1.4.4",
+    "ejs": "^3.0.1",
+    "express": "^4.17.1",
+    "http-errors": "^1.7.3",
+    "jade": "^1.11.0",
+    "mongoose": "^5.8.9",
+    "morgan": "^1.9.1",
+    "nodemon": "^2.0.2"
+  }
+}
